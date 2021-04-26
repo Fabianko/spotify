@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1556097777,
+      "collectionId": 1556696341,
+      "artistName": "Hola Beats",
+      "collectionName": "The Start Up Investment",
+      "collectionCensoredName": "The Start Up Investment",
+      "artistViewUrl": "https://music.apple.com/us/artist/hola-beats/1556097777?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/the-start-up-investment/1556696341?uo=4",
+      "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/55/e3/f1/55e3f11b-5419-f371-f871-e17b7b6cf897/source/60x60bb.jpg",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/55/e3/f1/55e3f11b-5419-f371-f871-e17b7b6cf897/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 25,
+      "copyright": "℗ 2021 2850058 Records DK",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2021-03-03T08:00:00Z",
+      "primaryGenreName": "Downtempo"
+    }
+  ]
+}
