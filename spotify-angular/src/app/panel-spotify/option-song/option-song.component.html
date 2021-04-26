@@ -1,4 +1,6 @@
 <div *ngIf="song && song.trackName">
-  <img src="{{ song.artworkUrl60 }}" alt="" />
+  <img src="{{ song.artworkUrl30 }}" alt="" />
+  {{ song.trackNumber }}
   {{ song.trackName }}
+  {{ song.trackTime }}
 </div>

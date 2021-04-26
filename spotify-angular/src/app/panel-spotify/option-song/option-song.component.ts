@@ -11,6 +11,12 @@ export class OptionSongComponent implements OnInit {
 
   ngOnInit(): void {
     console.log(this.song)
+    let trackTime = this.song.trackTimeMillis /1000
+    let min =(Math.trunc(trackTime/60))
+    let seg = trackTime- min * 60
+
+    this.song.trackTime = min.toString() + ':' + seg.toString()
+
   }
 
 }
